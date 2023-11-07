@@ -1,3 +1,6 @@
 eggs
 oil
 butter
+papper
+soap
+shampoo
